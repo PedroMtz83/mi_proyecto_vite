@@ -12,7 +12,7 @@ import MyFetchsAPIsGET from './functions/MyFetchsGET.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/* <App /> */}
-    <MyFunctions></MyFunctions>
+    {/* <MyFunctions></MyFunctions> */}
     {/* <MyPromises></MyPromises> */}
     {/* <MyPromisesAll></MyPromisesAll> */}
     {/* <MyPromisesRace></MyPromisesRace> */}
