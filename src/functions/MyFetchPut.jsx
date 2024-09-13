@@ -1,4 +1,3 @@
-/* Nota 3.9 */
 function MyFetchAPIsPUT(){
 
     let usuario = {

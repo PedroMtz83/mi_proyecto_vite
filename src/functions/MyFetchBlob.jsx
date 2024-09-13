@@ -1,4 +1,3 @@
-/* NOTA 3.10 */
 function MyFetchAPIsBlob(){
     //FIC: instanciamos los dos componentes de
     //imagen de la pagina index.html

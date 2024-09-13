@@ -1,4 +1,3 @@
-/* NOTA 3.8 */
 function MyFetchsAPIsPost() {
     //declaramos el objeto.
     let usuario = {
